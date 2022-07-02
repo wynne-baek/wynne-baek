@@ -1,5 +1,5 @@
 ### 도전하며 성장하는 개발자, 백경원입니다.
-### A developer who challenges and grows.
+#### A software developer who challenges and grows.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wynneb)](https://solved.ac/wynneb)
 
